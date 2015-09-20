@@ -1,0 +1,9 @@
+Package: org.thebigboss.emoji83plus
+Name: Emoji83+
+Depends: mobilesubstrate, firmware (>= 8.3), firmware (< 9.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: More emoji flags + spock emoji.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
